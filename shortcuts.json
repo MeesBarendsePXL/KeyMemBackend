@@ -230,7 +230,7 @@
 				{"function": "Search settings.","shortcut": "Type on any page with search box"},
 				{"function": "Open settings.","shortcut": "Windows logo key  + I"},
 				{"function": "Go back to the settings home page.","shortcut": "Backspace"},
-				{"function": "Search settings.","shortcut": "Type on any page with search box"},
+				{"function": "Search settings.","shortcut": "Type on any page with search box"}
             ]
         }
     ]
